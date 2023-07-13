@@ -1,0 +1,54 @@
+.logincontainer{
+    width: 400px;
+    height: 500px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+.input{
+    width: 100%;
+    margin-bottom: 12px;
+    padding: 14px;
+    font-size: 16px;
+    border: 1px solid lightgray;
+    box-sizing: border-box;
+    border-radius: 14px;
+}
+#a{
+    padding-left: 100px;
+    font-size: 70px;
+    font-family:unset;
+}
+#b{
+    padding-left: 130px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#c{
+    padding-left: 120px;
+    font-size: 16px;
+    color: rgb(151, 138, 138);
+}
+#d{
+    padding-left: 125px;
+    font-size: 16px;
+    color:  rgb(58, 52, 52);
+}
+pre{
+    font-size: 16px;
+    color: rgb(151, 138, 138);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 45px;
+}
+u{
+    color: rgb(58, 52, 52);
+}
+.btn{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding: 14px 30px;
+    border-radius: 40px;
+    margin-left: 110px;
+    margin-top: 30px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
